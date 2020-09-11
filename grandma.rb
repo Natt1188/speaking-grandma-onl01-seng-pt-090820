@@ -20,7 +20,7 @@ def speak_to_grandma(speak)
   elsif speak == "what did you eat today?".upcase
     "no, not since 1938!".upcase
   elsif speak == "WHAT?"
-    ""
+    "NO, NOT SINCE 1938!"
   else speak == "i love you grandma!".upcase
     "i love you too pumpkin!".upcase
   
