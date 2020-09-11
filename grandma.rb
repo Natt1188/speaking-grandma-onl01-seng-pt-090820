@@ -13,9 +13,9 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(speak)
-  if "i love you grandma!".upcase
+  if speak = "i love you grandma!".upcase
     "i love you too pumpkin!".upcase
-  elsif 
+  elsif speak = 
   
   
   
